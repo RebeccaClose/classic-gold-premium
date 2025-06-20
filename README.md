@@ -1,1 +1,1 @@
-# classic-gold-premium
+See [http://criticaldias.net/](http://criticaldias.net/)
