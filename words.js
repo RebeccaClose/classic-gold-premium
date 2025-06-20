@@ -1,5 +1,5 @@
 const assetsUrlPrefix =
-  'https://cdn.glitch.global/7d0aa318-417e-414f-82e1-5b201d4f53ac/' ;
+  './img....jpg' ;
 const imageCount = 44;
 // Load state from local storage; if that doesn't work, start over
 const state = loadState() || {
