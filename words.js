@@ -1,5 +1,5 @@
 const assetsUrlPrefix =
-  './img....jpg' ;
+  'img/' ;
 const imageCount = 44;
 // Load state from local storage; if that doesn't work, start over
 const state = loadState() || {
